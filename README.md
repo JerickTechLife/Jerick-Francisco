@@ -1,2 +1,22 @@
-# Jerick-Francisco
-Introduction
+# Hi, I'm Jerick 👋
+
+## About Me
+- BS Information Technology Graduate
+- Interested in QA Testing, IT Support, and System Analysis
+- Android and Web Developer
+
+## Skills
+
+<img src="https://skillicons.dev/icons?i=java,python,php,mysql,postgres,git,github,html,css" />
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+## Projects
+
+### Library Attendance Monitoring System
+<img src="project-screenshot.png" width="700">
+
+### Employee Management System
+<img src="project2-screenshot.png" width="700">
