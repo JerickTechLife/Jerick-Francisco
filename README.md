@@ -20,3 +20,21 @@
 
 ### Employee Management System
 <img src="project2-screenshot.png" width="700">
+
+## OJT Experience
+
+### IT Support and Systems Development Internship
+
+<p align="center">
+  <img src="images/ojt1.jpg" width="400">
+  <img src="images/ojt2.jpg" width="400">
+</p>
+
+During my internship, I gained hands-on experience in:
+
+- IT Support and troubleshooting
+- User account management
+- Software testing and validation
+- Technical documentation
+- System analysis
+- Database management
