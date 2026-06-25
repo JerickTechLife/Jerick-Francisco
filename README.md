@@ -1,239 +1,292 @@
-# Hi, I'm Jerick 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jerick Francisco
 
-### Aspiring QA Tester | Software QA Analyst | System Analyst | IT Support Specialist
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Aspiring+QA+Tester;Software+QA+Analyst;System+Analyst;ERP+Support+Specialist;IT+Support+Professional" alt="Typing SVG" />
+</p>
 
-📍 Philippines
-
-💻 Java • Python • C# • C++ • PHP • SQL • JavaScript
-
-🔍 Quality Assurance Testing • System Analysis • ERP Support • Technical Documentation • IT Operations
-
----
-
-## About Me
-
-Information Technology graduate with hands-on experience in Quality Assurance Testing, System Analysis, ERP System Support, Technical Documentation, and IT Operations. During my internship, I contributed to software testing, bug tracking, user acceptance testing, infrastructure support, technical documentation, and business system maintenance.
-
-I am passionate about ensuring software quality, improving business processes, supporting end users, and delivering reliable technology solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20to-QA%20Opportunities-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-IT%20Graduate-orange?style=for-the-badge">
+</p>
 
 ---
 
-## Core Competencies
+## 🚀 About Me
 
-### Quality Assurance & Software Testing
+```yaml
+Name: Jerick Francisco
+Education: Bachelor of Science in Information Technology
+Focus:
+  - Quality Assurance Testing
+  - Software Validation
+  - System Analysis
+  - ERP Support
+  - Technical Documentation
+  - IT Operations
 
-* Quality Assurance (QA) Testing
-* Functional Testing
-* Regression Testing
-* Software Testing and Validation
-* User Acceptance Testing (UAT)
-* Bug Tracking and Ticket Management
+Current Goal:
+  Building expertise in QA Engineering,
+  Software Testing, and Business Systems Support.
+```
 
-### System Analysis & ERP Support
-
-* System Analysis
-* ERP System Support
-* Requirements Analysis
-* Business Process Understanding
-* System Validation
-
-### Technical Documentation
-
-* Technical Documentation
-* User Guides and Manuals
-* Process Documentation
-* GitHub Project Documentation Management
-* Project Reporting
-
-### IT Support & Infrastructure
-
-* Technical Support and IT Operations
-* Hardware Troubleshooting and Maintenance
-* Network Cabling and Infrastructure Support
-* Server Maintenance and Monitoring
-* End-User Support
-
-### Design & Data Management
-
-* UI/UX Design and Wireframing
-* Data Cleaning and Data Management
+💡 Passionate about delivering reliable software solutions through testing, documentation, process improvement, and user-focused system support.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-* Java
-* Python
-* C#
-* C++
-* PHP
-* JavaScript
-* SQL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,javascript" />
+</p>
 
-### Web Technologies
+### Web Development
 
-* HTML
-* CSS
-* JavaScript
-* PHP
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
+</p>
 
 ### Database Technologies
 
-* MySQL
-* PostgreSQL
-* SQL Database Management
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### Development Tools
 
-* Git
-* GitHub
-* Android Studio
-* Visual Studio
-* Visual Studio Code
-
----
-
-## Technologies
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,javascript,html,css,mysql,postgres,git,github,vscode,visualstudio,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
 </p>
 
 ---
 
-# OJT Experience
+## 🎯 Core Competencies
 
-## ERP System Support & Quality Assurance
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="images/ojt-qa-1.jpg" width="400" alt="OJT QA Activity">
-  <img src="images/ojt-qa-2.jpg" width="400" alt="OJT QA Activity">
-</p>
+### 🔍 Quality Assurance
 
-### Responsibilities
+* Functional Testing
+* Regression Testing
+* UAT Testing
+* Defect Tracking
+* Bug Reporting
+* Validation Testing
+* Test Documentation
 
-* Performed software testing and validation activities
-* Assisted in User Acceptance Testing (UAT)
-* Documented bugs and system issues
-* Verified system functionality against requirements
-* Supported ERP system operations and enhancements
+</td>
+<td width="50%">
+
+### 📊 System Analysis
+
+* Requirements Analysis
+* ERP Support
+* Business Process Analysis
+* System Validation
+* Workflow Documentation
+* Process Improvement
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 Documentation
+
+* Technical Documentation
+* User Manuals
+* Knowledge Base Management
+* Project Reporting
+* SOP Documentation
+
+</td>
+<td width="50%">
+
+### 🖥️ IT Support
+
+* Hardware Troubleshooting
+* Infrastructure Support
+* Network Cabling
+* Server Monitoring
+* End User Support
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Support & Infrastructure Activities
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="images/ojt-it-1.jpg" width="400" alt="IT Support Activity">
-  <img src="images/ojt-it-2.jpg" width="400" alt="Infrastructure Support Activity">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
-### Responsibilities
-
-* Troubleshot hardware and software issues
-* Assisted end users with technical concerns
-* Supported network infrastructure activities
-* Conducted maintenance of computer equipment
-* Assisted with server monitoring and maintenance
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## Documentation & Project Coordination
+## 💼 Internship Experience (486 Hours)
 
-<p align="center">
-  <img src="images/ojt-doc-1.jpg" width="400" alt="Documentation Activity">
-  <img src="images/ojt-doc-2.jpg" width="400" alt="Project Coordination Activity">
-</p>
+### 🏢 ERP System Support & Quality Assurance
 
-### Responsibilities
+#### Responsibilities
 
-* Prepared technical documentation
-* Assisted with project reporting and monitoring
-* Maintained documentation repositories
-* Supported project coordination activities
-* Organized testing and implementation records
+✔ Functional Testing
+
+✔ Regression Testing
+
+✔ User Acceptance Testing (UAT)
+
+✔ Bug Tracking & Ticket Creation
+
+✔ ERP System Validation
+
+✔ Critical Issue Documentation
+
+✔ Knowledge Base Maintenance
 
 ---
 
-# Featured Projects
+### 🖥️ Technical Support & Infrastructure
 
-## Library Attendance and Circulation Monitoring System
+#### Responsibilities
 
-### Technologies Used
+✔ Hardware & Software Troubleshooting
 
-* Java
-* Android Studio
-* PHP
-* PostgreSQL
-* REST API
+✔ Network Infrastructure Support
 
-### Key Features
+✔ Server Monitoring
 
-* QR Code Attendance Monitoring
+✔ End User Technical Assistance
+
+✔ Equipment Maintenance
+
+✔ IT Operations Support
+
+---
+
+### 📄 Documentation & Project Coordination
+
+#### Responsibilities
+
+✔ Technical Documentation
+
+✔ Project Monitoring
+
+✔ Process Documentation
+
+✔ Testing Reports
+
+✔ Repository Management
+
+✔ Implementation Tracking
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Attendance & Circulation Monitoring System
+
+#### Technologies
+
+```text
+Java
+Android Studio
+PHP
+PostgreSQL
+REST API
+QR Technology
+```
+
+#### Features
+
+* QR Attendance Monitoring
 * Library Circulation Management
-* Student Record Management
-* Database-Driven Reporting
-* Mobile and Web Integration
+* Student Records Management
+* Reporting Dashboard
+* Mobile & Web Integration
 
 ---
 
-## ERP Testing and Documentation Support
+### 🧪 ERP Testing & Documentation Support
 
-### Areas of Contribution
+#### Contributions
 
 * Functional Testing
 * Regression Testing
 * User Acceptance Testing
 * Defect Documentation
-* Technical Documentation
 * Process Validation
+* Technical Documentation
 
 ---
 
-# Professional Strengths
+## 🏆 Professional Strengths
 
-✅ Strong analytical and problem-solving skills
-
-✅ Detail-oriented software testing approach
-
-✅ Technical documentation and reporting skills
-
-✅ Experience supporting ERP and business systems
-
-✅ Effective communication and teamwork
-
-✅ Ability to learn new technologies quickly
-
-✅ Strong commitment to software quality and user satisfaction
+<img src="https://img.shields.io/badge/Problem%20Solving-Expert-success?style=flat-square">
+<img src="https://img.shields.io/badge/Analytical%20Thinking-Strong-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Attention%20to%20Detail-Excellent-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Communication-Good-green?style=flat-square">
+<img src="https://img.shields.io/badge/Documentation-Advanced-purple?style=flat-square">
 
 ---
 
-# Career Interests
+## 🎯 Career Interests
 
-* Quality Assurance Tester
-* Software QA Analyst
-* System Analyst
-* IT Support Specialist
-* Technical Documentation Specialist
-* ERP Support Specialist
-
----
-
-# Education
-
-**Bachelor of Science in Information Technology**
-
-Graduate
+```text
+✓ Quality Assurance Tester
+✓ Software QA Analyst
+✓ System Analyst
+✓ ERP Support Specialist
+✓ Technical Documentation Specialist
+✓ IT Support Specialist
+```
 
 ---
 
-# Connect With Me
+## 🎓 Education
 
-📧 Email: franciscojerickmartin@gmail.com
+### Bachelor of Science in Information Technology
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/jerick-francisco-b4978039a/)
+🎓 Graduate
 
 ---
 
-> “Quality is never an accident; it is always the result of intelligent effort.”
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:franciscojerickmartin@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jerick-francisco-b4978039a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💭 Favorite Quote
+
+> "Quality is never an accident; it is always the result of intelligent effort."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
