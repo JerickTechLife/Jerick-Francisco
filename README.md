@@ -230,11 +230,9 @@ Graduate
 
 # Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: franciscojerickmartin@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
-
-🌐 GitHub: https://github.com/yourusername
+💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/jerick-francisco-b4978039a/)
 
 ---
 
