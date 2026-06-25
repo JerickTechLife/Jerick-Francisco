@@ -1,204 +1,166 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jerick Francisco
+# 👋 Hi, I'm Jerick Francisco
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Aspiring+QA+Tester;Software+QA+Analyst;System+Analyst;ERP+Support+Specialist;IT+Support+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Aspiring+QA+Tester;Software+QA+Analyst;System+Analyst;ERP+Support+Specialist;IT+Graduate+from+the+Philippines" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
-  <img src="https://img.shields.io/badge/Open%20to-QA%20Opportunities-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-IT%20Graduate-orange?style=for-the-badge">
+  <a href="mailto:franciscojerickmartin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/jerick-francisco-b4978039a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-Name: Jerick Francisco
-Education: Bachelor of Science in Information Technology
-Focus:
-  - Quality Assurance Testing
-  - Software Validation
-  - System Analysis
-  - ERP Support
-  - Technical Documentation
-  - IT Operations
+I'm an Information Technology graduate with internship experience in:
 
-Current Goal:
-  Building expertise in QA Engineering,
-  Software Testing, and Business Systems Support.
+* 🔍 Quality Assurance Testing
+* 📊 System Analysis
+* 🏢 ERP System Support
+* 📝 Technical Documentation
+* 🖥️ IT Operations & Technical Support
+
+During my internship, I participated in software testing, bug documentation, ERP support activities, user acceptance testing, technical documentation, and infrastructure-related tasks.
+
+I enjoy understanding how systems work, identifying issues before users encounter them, and helping improve software quality through testing and documentation.
+
+---
+
+## 🎯 What I'm Currently Learning
+
+```text
+📚 Test Case Design
+📚 API Testing (Postman)
+📚 Software Testing Methodologies
+📚 Requirements Analysis
+📚 Business Process Mapping
+📚 QA Documentation Standards
 ```
 
-💡 Passionate about delivering reliable software solutions through testing, documentation, process improvement, and user-focused system support.
-
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
+## 🛠️ Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,javascript" />
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
-</p>
-
-### Database Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,javascript,html,css,mysql,postgresql,git,github,vscode,visualstudio,androidstudio" />
 </p>
 
 ---
 
-## 🎯 Core Competencies
+## 💡 Areas of Interest
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>🔍 Quality Assurance & Software Testing</b></summary>
 
-### 🔍 Quality Assurance
+<br>
 
 * Functional Testing
 * Regression Testing
-* UAT Testing
-* Defect Tracking
+* User Acceptance Testing (UAT)
 * Bug Reporting
-* Validation Testing
+* Defect Tracking
 * Test Documentation
+* Software Validation
 
-</td>
-<td width="50%">
+</details>
 
-### 📊 System Analysis
+<details>
+<summary><b>📊 System Analysis & ERP Support</b></summary>
+
+<br>
 
 * Requirements Analysis
-* ERP Support
-* Business Process Analysis
-* System Validation
-* Workflow Documentation
-* Process Improvement
+* ERP System Support
+* Process Validation
+* Business Process Understanding
+* System Documentation
+* User Support
 
-</td>
-</tr>
-</table>
+</details>
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>📝 Documentation & Reporting</b></summary>
 
-### 📝 Documentation
+<br>
 
 * Technical Documentation
-* User Manuals
-* Knowledge Base Management
+* User Guides
+* Knowledge Base Maintenance
+* Process Documentation
+* Testing Reports
 * Project Reporting
-* SOP Documentation
 
-</td>
-<td width="50%">
+</details>
 
-### 🖥️ IT Support
+<details>
+<summary><b>🖥️ IT Support & Infrastructure</b></summary>
+
+<br>
 
 * Hardware Troubleshooting
-* Infrastructure Support
-* Network Cabling
-* Server Monitoring
+* Software Troubleshooting
 * End User Support
+* Network Cabling Assistance
+* Equipment Maintenance
+* Server Monitoring Assistance
 
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+</details>
 
 ---
 
-## 💼 Internship Experience (486 Hours)
+# 💼 Internship Experience (486 Hours)
 
-### 🏢 ERP System Support & Quality Assurance
+## 🏢 ERP System Support & Quality Assurance
 
-#### Responsibilities
+### Responsibilities
 
-✔ Functional Testing
-
-✔ Regression Testing
-
-✔ User Acceptance Testing (UAT)
-
-✔ Bug Tracking & Ticket Creation
-
-✔ ERP System Validation
-
-✔ Critical Issue Documentation
-
-✔ Knowledge Base Maintenance
+* Performed manual testing on system updates and patches
+* Assisted in User Acceptance Testing (UAT)
+* Created and documented bug tickets
+* Verified functionality against requirements
+* Supported ERP-related activities
+* Maintained testing records and reports
 
 ---
 
-### 🖥️ Technical Support & Infrastructure
+## 🖥️ Technical Support & Infrastructure
 
-#### Responsibilities
+### Responsibilities
 
-✔ Hardware & Software Troubleshooting
-
-✔ Network Infrastructure Support
-
-✔ Server Monitoring
-
-✔ End User Technical Assistance
-
-✔ Equipment Maintenance
-
-✔ IT Operations Support
+* Assisted users with technical issues
+* Supported hardware troubleshooting activities
+* Helped maintain computer equipment
+* Participated in network infrastructure tasks
+* Assisted in server monitoring and maintenance
 
 ---
 
-### 📄 Documentation & Project Coordination
+## 📄 Documentation & Project Coordination
 
-#### Responsibilities
+### Responsibilities
 
-✔ Technical Documentation
-
-✔ Project Monitoring
-
-✔ Process Documentation
-
-✔ Testing Reports
-
-✔ Repository Management
-
-✔ Implementation Tracking
+* Prepared technical documentation
+* Maintained project records
+* Organized implementation documents
+* Updated knowledge base resources
+* Assisted with project monitoring activities
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📚 Library Attendance & Circulation Monitoring System
+## 📚 Library Attendance and Circulation Monitoring System
 
-#### Technologies
+### Overview
+
+A mobile and web-based system designed to improve library attendance monitoring and book circulation processes through QR technology.
+
+### Technologies Used
 
 ```text
 Java
@@ -206,56 +168,83 @@ Android Studio
 PHP
 PostgreSQL
 REST API
-QR Technology
+QR Code Technology
 ```
 
-#### Features
+### Key Features
 
-* QR Attendance Monitoring
-* Library Circulation Management
-* Student Records Management
-* Reporting Dashboard
-* Mobile & Web Integration
+✅ QR Attendance Monitoring
 
----
+✅ Book Borrowing Management
 
-### 🧪 ERP Testing & Documentation Support
+✅ Student Records Management
 
-#### Contributions
+✅ Automated Reporting
 
-* Functional Testing
-* Regression Testing
-* User Acceptance Testing
-* Defect Documentation
-* Process Validation
-* Technical Documentation
+✅ Mobile & Web Integration
 
 ---
 
-## 🏆 Professional Strengths
+## ⚖️ Case No. Zero
 
-<img src="https://img.shields.io/badge/Problem%20Solving-Expert-success?style=flat-square">
-<img src="https://img.shields.io/badge/Analytical%20Thinking-Strong-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Attention%20to%20Detail-Excellent-orange?style=flat-square">
-<img src="https://img.shields.io/badge/Communication-Good-green?style=flat-square">
-<img src="https://img.shields.io/badge/Documentation-Advanced-purple?style=flat-square">
+### Crime Case Simulation Game
 
----
+An educational simulation game inspired by the Philippine legal system.
 
-## 🎯 Career Interests
+### Contributions
 
-```text
-✓ Quality Assurance Tester
-✓ Software QA Analyst
-✓ System Analyst
-✓ ERP Support Specialist
-✓ Technical Documentation Specialist
-✓ IT Support Specialist
-```
+* Game System Design
+* UI Design
+* Documentation
+* Gameplay Planning
+* Story Development
 
 ---
 
-## 🎓 Education
+# 🏆 Professional Strengths
+
+Instead of claiming expert-level skills, here's a realistic representation of my strengths:
+
+### ✔ Attention to Detail
+
+Able to identify inconsistencies, bugs, and documentation issues during testing and review activities.
+
+### ✔ Willingness to Learn
+
+Comfortable learning new systems, tools, and technologies when assigned unfamiliar tasks.
+
+### ✔ Documentation Skills
+
+Experience creating reports, maintaining records, and organizing technical information.
+
+### ✔ Analytical Thinking
+
+Able to analyze workflows, system behavior, and user requirements to better understand business processes.
+
+### ✔ Team Collaboration
+
+Experience working with supervisors, developers, and support teams during internship projects.
+
+### ✔ Adaptability
+
+Can transition between testing, documentation, technical support, and operational tasks when needed.
+
+---
+
+# 🎯 Career Goals
+
+I am seeking opportunities in:
+
+* 🔍 Quality Assurance Testing
+* 📊 System Analysis
+* 🏢 ERP Support
+* 📝 Technical Documentation
+* 🖥️ IT Support
+* 🧪 Software Testing
+
+---
+
+# 🎓 Education
 
 ### Bachelor of Science in Information Technology
 
@@ -263,30 +252,33 @@ QR Technology
 
 ---
 
-## 🌐 Connect With Me
+# 📌 Fun Facts
 
-<p align="center">
-<a href="mailto:franciscojerickmartin@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+```yaml
+Favorite Area:
+  - Software Testing
+  - System Analysis
 
-<a href="https://www.linkedin.com/in/jerick-francisco-b4978039a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+Interested In:
+  - ERP Systems
+  - QA Processes
+  - Business Applications
+
+Goal:
+  Become a professional QA Analyst
+  and contribute to building reliable software.
+```
 
 ---
 
-## 💭 Favorite Quote
+## 🌐 Let's Connect
+
+📧 **Email:** [franciscojerickmartin@gmail.com](mailto:franciscojerickmartin@gmail.com)
+
+💼 **LinkedIn:** [www.linkedin.com/in/jerick-francisco-b4978039a/](http://www.linkedin.com/in/jerick-francisco-b4978039a/)
+
+---
 
 > "Quality is never an accident; it is always the result of intelligent effort."
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
 ⭐ Thanks for visiting my profile!
-</p>
